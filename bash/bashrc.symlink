@@ -1,4 +1,4 @@
-export PATH=~/.dotfiles/bin:/usr/local/bin:/usr/local/sbin:/usr/local/share/npm/bin
+export PATH=$PATH:~/.dotfiles/bin:/usr/local/bin:/usr/local/sbin:/usr/local/share/npm/bin
 export MANPATH=/opt/local/share/man:$MANPATH
 export HISTCONTROL=ignoredups
 export INPUTRC="~/.inputrc"
