@@ -1,7 +1,3 @@
-# Remote nano/pico treats delete/backspace sanely
-# Actually what this does is kill the e key...
-# export TERM=xterm
-
 set show-all-if-ambiguous on
 set completion-ignore-case on
 set bell-style none
@@ -19,7 +15,6 @@ set prefer-visible-bell
 "\e[5D": backward-word
 "\e\e[C": forward-word
 "\e\e[D": backward-word
-
 
 $if Bash
   Space: magic-space
