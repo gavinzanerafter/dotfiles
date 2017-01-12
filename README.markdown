@@ -1,4 +1,4 @@
-# jeffrafter does dotfiles
+# gavinzanerafter does dotfiles
 
 ## dotfiles
 
